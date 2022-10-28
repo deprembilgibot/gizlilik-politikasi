@@ -1,16 +1,30 @@
 # Deprem Bilgi Discord Bot Gizlilik Politikası :
 
-1) Erişim Gizliliği :
-A) Botun database ve bilgilerine kurucu yani bot sahibi hariç hiç kimse erişim sağlayamaz.
+**Deprem Bilgi Bot Gizlilik Politikası**
+Son Değiştirilme Tarihi :** 22.06.2022**
 
-2) Veri Gizliliği :
-A) Bot kullanılırken kullanıcı ID, sunucu ID, mesaj ID gibi ID leri alır. 
-B) Bu bilgiler tamamen güvenilir bir şekilde korunmaktadır. Kurucu yani bot sahibi hariç hiç kimse bu verilere erişim sağlayamaz.
-C) Bu veriler deprem bilgi kanalının çalışması için, istatistik için alınır.
+Bu gizlilik politikası **Deprem Bilgi (1010946492544069724)** botunundur.
 
-3) Veri Silme İsteği :
-A) Kendinize ait verileri silme talebinde bulunmakta özgürsünüz. Bunun için botun kurucusu yani sahibine Dexar#7443 (787384609947385908) discord üzerinden özel mesaj atarak veya destek sunucusuna (https://discord.gg/63ZUyqy6mx) gelerek yapabilirsiniz. İsteğiniz en fazla 30 gün içerisinde gerçekleşir.
+Bilgi
+Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı.
+ID – Her kullanıcıya özgü oluşturulmuş, kullanıcıyı temsil eden bir kimlik.
+Sunucu – Discord platformuna kayıtlı olan her bir tekil sunucu.
+Link - Kullanıcının link ekleme komutu ile belirttiği link/adres.
 
-Bu gizlilik politikası tamamen Deprem Bilgi (1010946492544069724) botuna aittir.
+1) Saklanan Verileriniz
+1A) Komut Kullanılarak Saklanılan Veriler
+• Kullanıcı ID'si
+• Kullanılan sunucu ID'si
+• Kullanıcının sistemimize ekledigi link(ler)
 
-Son Değiştirilme Tarihi : 13.10.2022 ( 13 Ekim 2022)
+2B) Otomatik Saklanılan Veriler
+• Sunucu:
+ID'si, ismi, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, bot eklenme tarihi.
+• Üye:
+ID'si, ismi, hesap oluşturulma tarihi, sunucuya giriş tarihi.
+
+3) Verilerinizin Korunumu
+Verileriniz, şifrelenme yöntemiyle, erişime kısıtlı bir veri tabanlarında saklanır. Verilerinizin gizlenimi hakkında bize destekdeprembilgi@gmail.com iletişim adresinden elektronik posta gönderebilirsiniz. Verileriniz hakkında bir endişeniz veya sorunuz bulunmaktaysa, bilet oluşturarak yardım alabilirsiniz.
+
+4) Verilerinizin Silinimi
+Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi Dexar#7443 (787384609947385908) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da destekdeprembilgi@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır.
